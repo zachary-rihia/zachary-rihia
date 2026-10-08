@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Zachary Rihia 👋
 
 **Full-stack developer** (TypeScript, Node.js) with startup experience building a photogrammetry web app from the ground up. I have a BSc in Information Technology and a strong interest in 3D graphics, and I'm now moving toward quantum computing.
 
